@@ -1,0 +1,8 @@
+C01|Popcorn Regular|5.5|100|Snack
+C02|Popcorn Large|7.5|99|Snack
+C03|Soda Regular|3.5|150|Drink
+C04|Soda Large|4.5|150|Drink
+C05|Nachos|6.0|80|Snack
+C06|Hot Dog|5.0|60|Food
+C07|Combo 1|9.0|50|Combo
+C08|Combo 2|12.0|49|Combo
