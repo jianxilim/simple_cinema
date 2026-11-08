@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-import java.util.ArrayList;
+import java.util.ArrayList; 
 import java.util.Scanner;
 import java.util.Random;
 
